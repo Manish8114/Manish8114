@@ -1,4 +1,4 @@
-[![Masterhead](https://static.wixstatic.com/media/6c3893_60b02f5779ab4a239a715f41ba6a007e~mv2_d_5000_1447_s_2.gif)]
+![Masterhead](https://static.wixstatic.com/media/6c3893_60b02f5779ab4a239a715f41ba6a007e~mv2_d_5000_1447_s_2.gif)
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
 <h3 align="center">A passionate Data Analyst and Business Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://insanelab.com/wp-content/uploads/2018/08/data-visualization.gif">

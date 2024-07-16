@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
 <h3 align="center">A passionate Data Analyst and Business Analyst</h3>
+<img align="right" alt"="Coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/data-analysis-4179002-3479081.mp4">
 
 - 🔭 I’m currently Looking for Job in **Data Analytes field**
 

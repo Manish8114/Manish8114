@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
 <h3 align="center">A passionate Data Analyst and Business Analyst</h3>
-<video width="400" controls>
-  <source src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/data-analysis-4179002-3479081.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<img align="right" alt="Coding" width="400" src="https://insanelab.com/wp-content/uploads/2018/08/data-visualization.gif">
 
 
 - 🔭 I’m currently Looking for Job in **Data Analytes field**

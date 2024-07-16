@@ -1,3 +1,4 @@
+[![Masterhead](https://www.canva.com/design/DAGGU7gkgkM/X4DY6-o-VN9T-YqMWDTV9w/edit?utm_content=DAGGU7gkgkM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
 <h3 align="center">A passionate Data Analyst and Business Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://insanelab.com/wp-content/uploads/2018/08/data-visualization.gif">

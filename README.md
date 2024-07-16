@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://insanelab.com/wp-content/uploads/2018/08/data-visualization.gif">
 
 
-- 🔭 I’m currently Looking for Job in **Data Analytes field**
+- 🔭 I’m currently Looking for Job in **Data Analytics field**
 
 - 🌱 I’m currently learning **PowerBI**
 
